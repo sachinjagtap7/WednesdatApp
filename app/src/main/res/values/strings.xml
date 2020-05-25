@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WednesdayApp</string>
+    <string name="tack_name_lable">Track Name:</string>
+    <string name="artist_name_lable">Artist Name</string>
+    <string name="tack_cost_lable">Track Cost</string>
+    <string name="tack_release_date_lable">Track Release Date</string>
+    <string name="no_internet_available_lable">No internet available</string>
+    <string name="search_hint">Enter song name</string>
+</resources>
